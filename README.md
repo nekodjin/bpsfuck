@@ -51,6 +51,7 @@ Alternatively, you can install the interpreter with by invoking the command
 
 This project is licensed under the BSD 3-Clause license. 
 
-[bpscsc2021]: https://sites.google.com/bostonpublicschools.org/bpscoders/2021-student-contest 2021 #BPSCoders Student Contest
-[rust-init]:  https://rust-lang.org/tools/install Install Rust
+[bpscsc2021]: <https://sites.google.com/bostonpublicschools.org/bpscoders/2021-student-contest> "2021 #BPSCoders Student Contest"
+[rust-init]:  <https://rust-lang.org/tools/install> "Install Rust"
+[esowikibf]:  <https://esolangs.org/wiki/Brainfuck> "BrainFuck on Esolangs Wiki"
 
