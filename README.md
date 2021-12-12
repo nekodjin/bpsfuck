@@ -46,6 +46,9 @@ BrainFuck source code.
 Alternatively, you can install the interpreter with by invoking the command
 `cargo install bpsfuck`, and then run the interpreter with `bpsfuck source.bf`.
 
+#### TODO:
+- [ ] Support arbitrary chars as no-op
+
 This project is licensed under the BSD 3-Clause license. 
 
 [bpscsc2021]: https://sites.google.com/bostonpublicschools.org/bpscoders/2021-student-contest 2021 #BPSCoders Student Contest
