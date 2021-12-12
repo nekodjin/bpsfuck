@@ -1,0 +1,9 @@
+[package]
+name = "bpsfuck"
+version = "0.1.0"
+edition = "2021"
+license = "BSD-3-Clause"
+authors = ["Avery R. <contact@nekodjin.xyz>"]
+homepage = "https://github.com/nekodjin/bpsfuck"
+description = "A BrainFuck interpreter submitted for the 2021 #BPSCoders Student Contest"
+
